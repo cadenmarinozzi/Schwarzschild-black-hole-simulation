@@ -14,9 +14,9 @@ This is step one in my black hole simulation project series. The goal of this fi
 One important aspect to notice here is that when a spherical object, such as a star, enters within the viscinity of the black hole's gravitational warping, as time goes to infinity, the geometry of the object slowly stretches and flattens out into a disk around the black hole. A so called "accretion disk."
 
 <div style='display: flex; flex-direction: row; justify-content: center'>
-<img src='./assets/initial.jpg' width='300'></img>
-<img src='./assets/middle.jpg' width='300'></img>
-<img src='./assets/result.jpg' width='300'></img>
+<img src='./assets/initial.jpg' width='200'></img>
+<img src='./assets/middle.jpg' width='200'></img>
+<img src='./assets/result.jpg' width='200'></img>
 </div>
 
 # Usage
